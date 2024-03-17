@@ -61,6 +61,7 @@ section form label {
 }
 
 section form input[type="tel"],
+section form input[type="email"],
 section form input[type="text"] {
   width: 100%;
   padding: 8px;
